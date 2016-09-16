@@ -18,7 +18,7 @@
   line-height: 19px;
   color: white;
   font-size: 12px;
-  background: url(../images/icons/b21.png) no-repeat;
+  background: url(https://raw.githubusercontent.com/xhrist14n/sliders_jssor/master/app/images/icons/b21.png) no-repeat;
   overflow: hidden;
   cursor: pointer;
 }
@@ -43,7 +43,7 @@
   width: 55px;
   height: 55px;
   cursor: pointer;
-  background: url(../images/icons/a21.png) center center no-repeat;
+  background: url(https://raw.githubusercontent.com/xhrist14n/sliders_jssor/master/app/images/icons/a21.png) center center no-repeat;
   overflow: hidden;
 }
 .jssora21l { background-position: -3px -33px; }
