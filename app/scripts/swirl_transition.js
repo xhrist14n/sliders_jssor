@@ -44,7 +44,8 @@ $(
           $Transitions: transitions,
           $Breaks: [
             [{d:2000,b:1000}]
-          ]
+          ],
+          $AutoCenter: 1
         },
 
 
